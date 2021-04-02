@@ -1,0 +1,1 @@
+Neste diretório serão salvos os modelos induzidos para reconhecimento dos padrões cardíacdos

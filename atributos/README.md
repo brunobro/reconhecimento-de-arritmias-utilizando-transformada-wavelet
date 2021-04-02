@@ -1,0 +1,1 @@
+Aqui serão salvos salvos os atributos extraídos dos sinais de ECG utilizando a Transforma Wavelet.
